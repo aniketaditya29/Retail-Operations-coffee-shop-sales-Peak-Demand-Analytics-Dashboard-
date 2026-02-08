@@ -1,0 +1,7 @@
+# SQL as a programming language
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# SQL as a programming language
+*.pbix linguist-detectable=true
+*.pbix linguist-language= Power BI
