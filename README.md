@@ -1,4 +1,4 @@
-## COFFEE SHOP SALES (EXCEL + SQL + POWER BI) PROJECT
+## Retail Operations & Peak-Demand Analytics Dashboard 
 
 This project determines the sales report of a coffee shop, where the analysis is determined from various queries in SQL and dashboard visualization in POWER BI
 using various DAX functions from the raw data in EXCEL.
